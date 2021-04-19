@@ -1,2 +1,2 @@
 # giantMachines
-Giant Machines take hoe project
+Giant Machines take home project
